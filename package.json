@@ -1,0 +1,28 @@
+{
+  "name": "playwright-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "npm run test": "npx playwright test --headed",
+    "npm run test:headless": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-sudell/playwright-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-sudell/playwright-example/issues"
+  },
+  "homepage": "https://github.com/j-sudell/playwright-example#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.7.1"
+  },
+  "dependencies": {
+    "prettier": "^3.0.3"
+  }
+}
