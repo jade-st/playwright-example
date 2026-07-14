@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/j-sudell/playwright-example#readme",
   "devDependencies": {
-    "@playwright/test": "^1.38.1",
+    "@playwright/test": "^1.61.1",
     "@types/node": "^20.7.1"
   },
   "dependencies": {
